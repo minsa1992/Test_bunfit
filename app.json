@@ -1,4 +1,7 @@
 {
   "name": "Test_bunfit",
-  "displayName": "Test_bunfit"
+  "displayName": "Test_bunfit",
+  "applicationName":"Test_bunfit",
+  "applicationId":"",
+  "buildNumber":1
 }
